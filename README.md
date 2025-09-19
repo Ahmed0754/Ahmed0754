@@ -68,7 +68,7 @@
 
 - 📧 Email: [syedahmedali.0520@gmail.com](mailto:syedahmedali.0520@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/syed-ahmed-ali-7270792b2)
-- 🌐 [Portfolio](https://ahmed0754.github.io/Portfolio/)
+- 🌐 [Portfolio](https://personal-website-rust-chi.vercel.app/)
 - 🐙 [GitHub](https://github.com/Ahmed0754)
 
 ---
