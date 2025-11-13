@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Syed Ahmed Ali 👋</h1>
-<h3 align="center"> Junior CS Student @ SUNY New Paltz | Aspiring Software Engineer | AI/ML | Full-Stack Development</h3>
+<h3 align="center">CS Student @ SUNY New Paltz | Aspiring Software Engineer | AI/ML | Full-Stack Development</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 ---
 
  **What I'm Learning**
-- Full-stack apps using React, Node.js, and databases
+- Full-stack apps using various languages.
 - Spring Boot for robust Java backends
 - Advanced Python for AI/ML
 ---
