@@ -13,7 +13,7 @@
 - Full-stack apps using various languages.
 - Spring Boot for robust Java backends
 - Advanced Python for AI/ML
-- Databade Management Using SQL and MongoDB
+- Database Management Using SQL and MongoDB
 ---
 
 💻 **Skills**
