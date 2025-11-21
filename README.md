@@ -56,12 +56,10 @@
 ---
 
 📈 **Notable Projects**
-
+- [Aurify (AI Communication Tool)](https://github.com/Ahmed0754/Aurify) – Full-stack app made mostly with TypeScript and also using various technologies like FireBase Auth, Google Gemini API etc..
 - [AI Stock Market Predictor](https://github.com/Ahmed0754/AI-Stock-Market-Predictor) – Python + React + Flask app that forecasts future stock prices.
-- ⚽ [Fantasy Premier League Backend](https://github.com/Ahmed0754/Fantasy-Premier-League-Backend) – Java Spring Boot backend using Python data scraping & PostgreSQL.
+- [Fantasy Premier League Backend](https://github.com/Ahmed0754/Fantasy-Premier-League-Backend) – Java Spring Boot backend using Python data scraping & PostgreSQL.
 -  [Full-Stack Social Media Web App](https://github.com/Ahmed0754/Social-Media-Web-App) – Full-stack React/Spring Boot app with auth, likes, posts, and dynamic UI.
-- 
-
 ---
 
 📬 **Let’s Connect**
