@@ -3,9 +3,9 @@
 
 ---
 
-🎓 **Education**
-- 🏫 **SUNY New Paltz** — B.S. in Computer Science *(Present)*
-- 🎓 **Rockland Community College** — A.S. in Math & Computer Science *(Sep 2023 – Dec 2024)*
+**Education**
+- **SUNY New Paltz** — B.S. in Computer Science *(Present)*
+- **Rockland Community College** — A.S. in Math & Computer Science *(Sep 2023 – Dec 2024)*
 
 ---
 
@@ -57,9 +57,10 @@
 
 📈 **Notable Projects**
 
-- 🔮 [AI Stock Market Predictor](https://github.com/Ahmed0754/AI-Stock-Market-Predictor) – Python + React + Flask app that forecasts future stock prices.
+- [AI Stock Market Predictor](https://github.com/Ahmed0754/AI-Stock-Market-Predictor) – Python + React + Flask app that forecasts future stock prices.
 - ⚽ [Fantasy Premier League Backend](https://github.com/Ahmed0754/Fantasy-Premier-League-Backend) – Java Spring Boot backend using Python data scraping & PostgreSQL.
-- 🧑‍🤝‍🧑 [Full-Stack Social Media Web App](https://github.com/Ahmed0754/Social-Media-Web-App) – Full-stack React/Spring Boot app with auth, likes, posts, and dynamic UI.
+-  [Full-Stack Social Media Web App](https://github.com/Ahmed0754/Social-Media-Web-App) – Full-stack React/Spring Boot app with auth, likes, posts, and dynamic UI.
+- 
 
 ---
 
