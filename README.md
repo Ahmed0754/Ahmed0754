@@ -1,74 +1,159 @@
-<h1 align="center">Hi there, I'm Syed Ahmed Ali 👋</h1>
-<h3 align="center">CS Student @ SUNY New Paltz | Aspiring Software Engineer | AI/ML | Full-Stack Development</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer+Intern+%40+IBM;Building+AI+tools+%26+open-source+infra;Python+%7C+Full-Stack+%7C+AI%2FLLMs" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+# Syed Ahmed Ali
+
+CS @ SUNY New Paltz · Graduating May 2027
+
+*I build developer tools, AI-powered products, and backend systems.*
+*Currently automating enterprise infrastructure at IBM and shipping open-source tools on the side.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedahmed-ali)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedahmedali.0520@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/Ahmed0754/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-website-rust-chi.vercel.app)
+
+</div>
+
+<br/>
 
 ---
 
-**Education**
-- **SUNY New Paltz** — B.S. in Computer Science *(Present)*
-- **Rockland Community College** — A.S. in Math & Computer Science *(Sep 2023 – Dec 2024)*
+<br/>
+
+## ⚡ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 RampUp AI</h3>
+      <p>AI productivity assistant for interns and junior devs. Paste a Slack message, terminal error, or Jira ticket — get a plain-English explanation, action items, and a tone-aware reply draft.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_API-7C3AED?style=flat&logo=anthropic&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Ahmed0754/rampup-ai">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 repocheck</h3>
+      <p>CLI that scans any GitHub repo across 14 weighted health checks and outputs an A–F report card. Web dashboard, GitHub Action for CI enforcement, org-wide scanning, Slack webhooks. 57 tests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Ahmed0754/repocheck">View Project →</a>
+      &nbsp;
+      <a href="https://pypi.org/project/repocheck-cli/"><img src="https://img.shields.io/pypi/v/repocheck-cli?color=3775A9&label=PyPI"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ ratelimiter-py</h3>
+      <p>Production-grade Python rate limiting library implementing token bucket, sliding window, and fixed window from scratch. Redis backend with atomic ops, FastAPI middleware, 41-test suite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Ahmed0754/ratelimiter-py">View Project →</a>
+      &nbsp;
+      <a href="https://pypi.org/project/ratelimiter-py/"><img src="https://img.shields.io/pypi/v/ratelimiter-py?color=3775A9&label=PyPI"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 IBM — MCP AI Agent</h3>
+      <p>At IBM, built an MCP-integrated AI agent that replaced a 10+ step manual UI workflow with a single natural language command — invoking z/OS workflow REST APIs automatically to manage containerized service lifecycles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat&logoColor=white"/>
+      </p>
+      <em>Production internship project — private repo</em>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
- **What I'm Learning**
-- Full-stack apps using various languages.
-- Spring Boot for robust Java backends
-- Advanced Python for AI/ML
-- Database Management Using SQL and MongoDB
+<br/>
+
+## 💼 Experience
+
+<div align="center">
+
+| | Role | Company | Period |
+|--|------|---------|--------|
+| 🔵 | Software Engineer Intern — z/OS Container Extensions | **IBM** | May 2026 – Present |
+| 🟣 | Software Engineer Intern | **Aurify AI** | Jul 2025 – Dec 2025 |
+| 🟢 | Software Engineer Intern — AI/ML | **Macrosoft Inc.** | Jun 2023 – Aug 2023 |
+
+</div>
+
+<br/>
+
 ---
 
-💻 **Skills**
+<br/>
 
-**Languages:**
-<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Frameworks & Tools:**
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Backend & Frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-0D122B?style=for-the-badge&logo=ajax&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Databases & Tools:**
-<br>
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+**Databases & Infra**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+**AI / LLM**
+
+![Claude](https://img.shields.io/badge/Claude_API-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-📈 **Notable Projects**
-- [Aurify (AI Communication Tool)](https://github.com/Ahmed0754/Aurify) – Full-stack app made mostly with TypeScript and also using various technologies like FireBase Auth, Google Gemini API etc..
-- [AI Stock Market Predictor](https://github.com/Ahmed0754/AI-Stock-Market-Predictor) – Python + React + Flask app that forecasts future stock prices.
-- [Fantasy Premier League Backend](https://github.com/Ahmed0754/Fantasy-Premier-League-Backend) – Java Spring Boot backend using Python data scraping & PostgreSQL.
--  [Full-Stack Social Media Web App](https://github.com/Ahmed0754/Social-Media-Web-App) – Full-stack React/Spring Boot app with auth, likes, posts, and dynamic UI.
----
-
-📬 **Let’s Connect**
-
-- 📧 Email: [syedahmedali.0520@gmail.com](mailto:syedahmedali.0520@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/syed-ahmed-ali-7270792b2)
-- 🌐 [Portfolio](https://personal-website-rust-chi.vercel.app/)
-- 🐙 [GitHub](https://github.com/Ahmed0754)
-
----
-
-🧠 *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed0754&color=7c3aed&style=flat&label=profile+views"/>
+  <br/><br/>
+  <em>Open to SWE internship and new grad opportunities — graduating May 2027</em>
+</div>
