@@ -169,6 +169,20 @@ CS @ SUNY New Paltz · Graduating May 2027
 
 ---
 
+---
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed0754&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+</div>
+
+<br/>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed0754&color=7c3aed&style=flat&label=profile+views"/>
   <br/><br/>
