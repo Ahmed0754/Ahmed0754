@@ -107,6 +107,23 @@ CS @ SUNY New Paltz · Graduating May 2027
 
 <br/>
 
+## 🎓 Education
+
+<div align="center">
+
+| Degree | School | Period |
+|--------|--------|--------|
+| B.S. Computer Science · GPA 3.7 | **SUNY New Paltz** | Jan 2025 – May 2027 |
+| A.S. Mathematics & Computer Science | **Rockland Community College** | Sep 2023 – Dec 2024 |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
